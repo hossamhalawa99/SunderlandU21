@@ -1,0 +1,10 @@
+streamlit
+pandas
+supabase
+python-dotenv
+scipy
+reportlab
+arabic-reshaper
+python-bidi
+requests
+matplotlib
